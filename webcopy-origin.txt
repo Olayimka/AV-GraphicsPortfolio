@@ -1,0 +1,60 @@
+Uri: https://miradesign.vzy.io/
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZhrib2Bg-4.ttf
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZhrib2Bg-4.ttf
+Content Type: font/ttf
+
+Uri: https://vzy.netlify.app/assets/icons/favicon.svg
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\assets\icons\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://app.vzy.co/assets/css/vzy.css
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\assets\css\vzy.css
+Content Type: text/css
+
+Uri: https://miradesign.vzy.io/about
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\about.htm
+Content Type: text/html
+
+Uri: https://www.behance.net/gallery/171043257/Triadic/modules/965181939
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\gallery\171043257\Triadic\modules\965181939.htm
+Content Type: text/html
+
+Uri: https://www.behance.net/gallery/171041653/Rosetta/modules/965173251
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\gallery\171041653\Rosetta\modules\965173251.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/mira__design/
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\mira__design\index.htm
+Content Type: text/html
+
+Uri: https://miradesign.vzy.io/contact
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\contact.htm
+Content Type: text/html
+
+Uri: https://vzy.co/website-builder?ref=miradesign.vzy.io
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\website-builder.htm
+Content Type: text/html
+
+Uri: https://app.vzy.co/assets/js/vzy.js
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\assets\js\vzy.js
+Content Type: application/javascript
+
+Uri: https://app.vzy.co/assets/js/tracker.js
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\assets\js\tracker.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\ajax\libs\crypto-js\3.1.2\rollups\aes.js
+Content Type: application/javascript
+
+Uri: https://web.facebook.com/Goodness M. Benneth?_rdc=1&_rdr
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\Goodness M. Benneth.htm
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=%2B2349037272497&text&type=phone_number&app_absent=0
+File Name: C:\Downloaded Web Sites\miradesign.vzy.io\send\index.htm
+Content Type: text/html
+
